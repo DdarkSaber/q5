@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+<PersonDetails>  
+      <id>106119038</id>
+      <name>girish</name>
+     <city>chennai</city>
+   <Branch>CSE</Branch>
+   <Year>III</Year>
+</PersonDetails> 	
+<PersonDetails>
+	<id>106119032</id>
+   <name>satya</name>
+   <city>karnata</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119080</id>
+   <name>shriram</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119078</id>
+   <name>mohan</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119138</id>
+   <name>sash</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119068</id>
+   <name>maddy</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119034</id>
+   <name>vidhya</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119142</id>
+   <name>viggy</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119108</id>
+   <name>sakthi</name>
+   <city>chennai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+<PersonDetails>
+   <id>106119148</id>
+   <name>aryan</name>
+   <city>mumbai</city>
+   <Branch>cse</Branch>
+   <Year>III</Year>
+</PersonDetails> 
+</Student>
